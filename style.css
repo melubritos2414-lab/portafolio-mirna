@@ -38,6 +38,15 @@ a {
 a:hover {
     text-decoration: underline;
 }
+a {
+    color: #1a4cff;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
 
 #mi-historia {
     background: #fff8e6;
